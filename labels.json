@@ -19,7 +19,11 @@
     "color": "F9966b",
     "description": "우선순위 하"
   },
-
+  {
+      "name": "Status: Done",
+      "color": "a0ffb8",
+      "description": "완료 된 이슈"
+    },
   {
     "name": "Status: Duplicated",
     "color": "cfd3d7",
